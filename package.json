@@ -1,11 +1,11 @@
 {
-  "name": "weather-app",
+  "name": "simple-calculator-project",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel start index.html"
+    "build": "parcel build index.html"
   },
   "author": "Luka",
   "license": "ISC",
